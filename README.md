@@ -12,12 +12,8 @@ With this integration you'll stay updated on what's going on in Titan without le
   - [Installation](#installation)
   - [Authorization](#authorization)
   - [Uninstalling](#uninstalling)
+- [Interacting with the bot](#interacting-with-the-bot) 
 - [Available streams](#available-streams)
- - [Interacting with the bot](#interacting-with-the-bot) 
-   - [Showing status](#showing-status)
-   - [Enabling streams](#enabling-streams)
-   - [Modifying streams](#modifying-streams)
-   - [Disabling streams](#disabling-streams)
 - [Feedback](#feedback)
 --------
 ## Get started
@@ -89,8 +85,6 @@ the bot by its handle `@intel471`. In following examples the latter form will be
     * `ignoreRead` - Do not show alerts marked as read. Show all by default
     * `markAsRead` - Mark alerts posted to the channel as read. Do not mark by default.
     * `<watcher-group-uid>` - One or more unique identifiers (UIDs) of Watcher groups to narrow down the stream. The UIDs can be obtained from the `watchers` command. Example showing the full command to subscribe to only unread alerts from two selected Watcher groups and continue to mark them as read: `@intel471 enable alerts 10m ignoreRead markAsRead 7fbb148b-e59f... e59f4798-9634...`
-
-
 
 ## Feedback
 
