@@ -4,7 +4,7 @@ Titan delivers structured technical and non-technical data and intelligence that
 
 With this integration you'll stay updated on what's going on in Titan without leaving Microsoft Teams. The updates will be delivered either to your private space or to the Teams channel to facilitate collaboration.
 
-<p align="center"><img width="500" alt="Intro message" src="img/updates.png"></p>
+<p align="center"><img width="500" alt="Updates" src="img/updates.png"></p>
 
 ## Table of Contents
 - [Get started](#get-started)
@@ -32,6 +32,8 @@ Once added to your Teams instance, navigate to Apps, click on **Intel 471 bot** 
 | Private scope<br />*app in left-hand toolbar* | Click *Open* button| Just type a command (e.g. `status`)  |
 | Private chat | Click *Add to a chat*| Mention the bot using `@intel471` handle (e.g. `@intel471 status`) |
 | Team<br />*can be configured in any of the team's channels* | Click *Add to a team*.<br />Then navigate to the team's channel of your choice and type `@intel471 install` | ditto  |
+
+<p align="center"><img width="500" alt="Installation" src="img/installation.png"></p>
 
 Upon installation, a welcome message with short manual and basic information will be sent to the chosen scope. 
 <p align="center"><img width="500" alt="Intro message" src="img/intro.png"></p>
@@ -61,7 +63,7 @@ You can send the bot commands in order to see its status and to configure the st
 In private scope you just type the command. In other scopes you also need to mention
 the bot by its handle `@intel471`. In following examples the latter form will be used.
 
-<p align="center"><img width="500" alt="Auth confirmed" src="img/command.png"></p>
+<p align="center"><img width="500" alt="Command" src="img/command.png"></p>
 
 `@intel471 help` - Shows help information.
 
