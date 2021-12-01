@@ -2,20 +2,22 @@
 
 Titan delivers structured technical and non-technical data and intelligence that is continually updated by Intel 471's global team and automated processes.
 
-With this integration you'll stay updated on what's going on in Titan without leaving Microsoft Teams. The updates will be delivered either to your private space or to the Teams channel for better collaboration.
+With this integration you'll stay updated on what's going on in Titan without leaving Microsoft Teams. The updates will be delivered either to your private space or to the Teams channel to facilitate collaboration.
+
+<p align="center"><img width="500" alt="Intro message" src="img/updates.png"></p>
 
 ## Table of Contents
 - [Get started](#get-started)
   - [Requirements](#requirements)
   - [Installation](#installation)
   - [Authorization](#authorization)
+  - [Uninstalling](#uninstalling)
 - [Available streams](#available-streams)
  - [Interacting with the bot](#interacting-with-the-bot) 
    - [Showing status](#showing-status)
    - [Enabling streams](#enabling-streams)
    - [Modifying streams](#modifying-streams)
    - [Disabling streams](#disabling-streams)
-- [Uninstalling](#uninstalling)
 - [Feedback](#feedback)
 --------
 ## Get started
@@ -48,7 +50,7 @@ At this point the bot is installed but is not authorized yet. Authorization is r
 
  <p align="center"><img width="500" alt="Auth confirmed" src="img/auth-confirmed.png"></p>
 
-## Uninstalling
+### Uninstalling
 
 | Scope | How to uninstall |
 |-----|----|
