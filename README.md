@@ -35,16 +35,16 @@ Once added to your Teams instance, navigate to Apps, click on **Intel 471 bot** 
 | Team<br />*can be configured in any of the team's channels* | Click *Add to a team*.<br />Then navigate to the team's channel of your choice and type `@intel471 install` | ditto  |
 
 Upon installation, a welcome message with short manual and basic information will be sent to the chosen scope. 
-<p align="left"><img width="500" alt="Intro message" src="img/intro.png"></p>
+<p align="center"><img width="500" alt="Intro message" src="img/intro.png"></p>
  
 ## Authorization
 At this point the bot is installed but is not authorized yet. Authorization is required so the bot can access the Titan data on your behalf. Click on the **Intel 41 bot auth page** link provided in the welcome message and provide your Titan credentials.
 
-<p align="left"><img width="500" alt="Auth page" src="img/auth-page.png"></p>
+<p align="center"><img width="500" alt="Auth page" src="img/auth-page.png"></p>
 
  Once completed, all supported streams with default intervals will be activated. You can modify them later using the `enable` command.
 
- <p align="left"><img width="500" alt="Auth confirmed" src="img/auth-confirmed.png"></p>
+ <p align="center"><img width="500" alt="Auth confirmed" src="img/auth-confirmed.png"></p>
 
 ## Feedback
 
