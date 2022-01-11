@@ -19,7 +19,7 @@ With this integration you'll stay updated on what's going on in Titan without le
 ## Get started
 ### Requirements
 
-Titan API credentials.
+Titan API credentials. These are available as part of Intel 471's paid subscriptions. For more information, please contact sales@intel471.com.
 
 ### Installation
 
@@ -39,7 +39,7 @@ Upon installation, a welcome message with short manual and basic information wil
 <p align="center"><img width="500" alt="Intro message" src="img/intro.png"></p>
  
 ### Authorization
-At this point the bot is installed but is not authorized yet. Authorization is required so the bot can access the Titan data on your behalf. Click on the **Intel 41 bot auth page** link provided in the welcome message and provide your Titan credentials.
+At this point the bot is installed but is not authorized yet. Authorization is required so the bot can access the Titan data on your behalf. Click on the **Intel 471 bot auth page** link provided in the welcome message and provide your Titan credentials.
 
 <p align="center"><img width="500" alt="Auth page" src="img/auth-page.png"></p>
 
