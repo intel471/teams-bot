@@ -23,7 +23,7 @@ Titan API credentials. These are available as part of Intel 471's paid subscript
 
 ### Installation
 
-You can go to Microsoft Teams app store and install **Intel 471 Bot** app or you can install it directly from [here](https://teams.microsoft.com). *This step is not ready yet until the app is submitted to the store*
+You can go to Microsoft Teams app store and search for **Intel 471 Bot** app or you can install it directly from [here](https://appsource.microsoft.com/en-gb/product/office/WA200003769).
 
 Once added to your Teams instance, navigate to Apps, click on **Intel 471 bot** and add it to one of the following scopes:
 
